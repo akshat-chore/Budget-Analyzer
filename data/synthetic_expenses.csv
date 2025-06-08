@@ -1,0 +1,501 @@
+Date,Amount,Description,Category
+2024-04-27,1525.75,Apartment Rent,Rent
+2024-04-30,665.18,Apartment Rent,Rent
+2024-01-19,3687.55,Fuel,Transport
+2024-03-01,4229.82,Pharmacy,Healthcare
+2024-01-02,891.91,Miscellaneous,Others
+2024-04-21,567.9,Clothing Store,Shopping
+2024-02-03,2503.22,Apartment Rent,Rent
+2024-01-10,1777.74,Miscellaneous,Others
+2024-04-15,3179.37,Gift,Others
+2024-01-04,1331.67,Donation,Others
+2024-02-10,1474.19,Gift,Others
+2024-05-18,2983.85,Bus Pass,Transport
+2024-02-23,4207.58,Electricity Bill,Utilities
+2024-03-21,1525.99,Donation,Others
+2024-04-14,2910.54,Gift,Others
+2024-03-09,4691.07,Apartment Rent,Rent
+2024-02-02,1194.59,Spotify,Entertainment
+2024-03-22,1160.41,Flipkart,Shopping
+2024-02-29,355.97,Gift,Others
+2024-02-25,3621.74,Dominos,Food
+2024-05-12,4344.34,Groceries,Food
+2024-04-04,1197.12,Groceries,Food
+2024-04-30,2634.47,Concert,Entertainment
+2024-03-26,1751.01,Movie,Entertainment
+2024-01-12,1718.14,Uber,Transport
+2024-04-25,1380.24,Doctor Visit,Healthcare
+2024-02-21,3423.36,Doctor Visit,Healthcare
+2024-04-27,3749.11,Netflix,Entertainment
+2024-05-14,1618.57,Zomato,Food
+2024-04-15,3192.51,Donation,Others
+2024-02-14,2942.89,Flipkart,Shopping
+2024-02-16,2353.3,Internet Bill,Utilities
+2024-05-28,2023.2,Movie,Entertainment
+2024-04-29,292.15,Movie,Entertainment
+2024-05-04,2237.45,Gift,Others
+2024-03-10,4586.13,Clothing Store,Shopping
+2024-03-11,1417.42,Train Ticket,Transport
+2024-02-16,2923.69,Bus Pass,Transport
+2024-02-29,880.82,Swiggy,Food
+2024-03-06,1731.1,Concert,Entertainment
+2024-03-12,2335.0,Amazon,Shopping
+2024-02-06,2195.55,Health Checkup,Healthcare
+2024-05-12,4338.47,Water Bill,Utilities
+2024-05-02,2396.72,Netflix,Entertainment
+2024-04-17,772.64,Amazon,Shopping
+2024-03-18,3237.68,Water Bill,Utilities
+2024-04-01,2075.81,Apartment Rent,Rent
+2024-01-14,2756.86,Movie,Entertainment
+2024-01-24,3827.9,Apartment Rent,Rent
+2024-03-26,3126.79,Miscellaneous,Others
+2024-04-21,4848.9,Bus Pass,Transport
+2024-03-16,551.59,Apartment Rent,Rent
+2024-03-11,3912.52,Uber,Transport
+2024-03-08,156.02,Water Bill,Utilities
+2024-04-25,732.06,Uber,Transport
+2024-05-01,618.73,Apartment Rent,Rent
+2024-03-21,1356.77,Flipkart,Shopping
+2024-05-25,1983.56,Uber,Transport
+2024-03-09,497.39,Doctor Visit,Healthcare
+2024-05-29,4443.56,Miscellaneous,Others
+2024-01-16,4090.65,Apartment Rent,Rent
+2024-01-20,4704.17,Miscellaneous,Others
+2024-01-26,2470.47,Health Checkup,Healthcare
+2024-05-12,1948.33,Internet Bill,Utilities
+2024-02-18,249.42,Electricity Bill,Utilities
+2024-04-18,1918.25,Amazon,Shopping
+2024-01-04,2448.67,Electricity Bill,Utilities
+2024-04-13,3578.53,Electricity Bill,Utilities
+2024-01-04,223.7,Flipkart,Shopping
+2024-03-04,1723.19,Pharmacy,Healthcare
+2024-01-29,3250.78,Electricity Bill,Utilities
+2024-04-30,3858.37,Pharmacy,Healthcare
+2024-02-24,2949.45,Groceries,Food
+2024-05-07,2239.4,Train Ticket,Transport
+2024-02-01,1944.25,Clothing Store,Shopping
+2024-05-20,4254.56,Amazon,Shopping
+2024-01-01,427.24,Clothing Store,Shopping
+2024-02-07,3422.97,Doctor Visit,Healthcare
+2024-05-07,941.19,Health Checkup,Healthcare
+2024-04-07,4103.14,Donation,Others
+2024-03-25,4845.81,Apartment Rent,Rent
+2024-04-03,4178.52,Dominos,Food
+2024-05-03,4318.66,Clothing Store,Shopping
+2024-02-16,4494.19,Donation,Others
+2024-05-10,2378.28,Electricity Bill,Utilities
+2024-02-20,4120.13,Donation,Others
+2024-01-23,425.18,Netflix,Entertainment
+2024-05-24,1010.75,Train Ticket,Transport
+2024-01-05,224.91,Donation,Others
+2024-01-29,837.41,Apartment Rent,Rent
+2024-02-04,3395.95,Pharmacy,Healthcare
+2024-05-20,3641.76,Gift,Others
+2024-03-26,1765.19,Internet Bill,Utilities
+2024-02-17,3969.62,Doctor Visit,Healthcare
+2024-05-26,3688.05,Apartment Rent,Rent
+2024-01-28,3251.96,Health Checkup,Healthcare
+2024-02-27,4826.8,Apartment Rent,Rent
+2024-02-27,2133.6,Health Checkup,Healthcare
+2024-05-25,3609.41,Bus Pass,Transport
+2024-02-15,3530.47,Spotify,Entertainment
+2024-04-28,4602.41,Amazon,Shopping
+2024-02-08,3223.09,Groceries,Food
+2024-04-04,1582.39,Miscellaneous,Others
+2024-02-04,4498.72,Electricity Bill,Utilities
+2024-01-16,468.57,Electricity Bill,Utilities
+2024-02-01,4382.03,Amazon,Shopping
+2024-03-15,3859.74,Apartment Rent,Rent
+2024-04-23,1369.53,Bus Pass,Transport
+2024-03-13,710.14,Electricity Bill,Utilities
+2024-04-05,2069.64,Train Ticket,Transport
+2024-04-15,2934.03,Groceries,Food
+2024-05-07,4537.6,Electricity Bill,Utilities
+2024-03-09,3731.28,Donation,Others
+2024-03-24,3337.65,Gift,Others
+2024-01-12,2553.5,Groceries,Food
+2024-04-08,388.37,Flipkart,Shopping
+2024-02-24,2995.89,Electricity Bill,Utilities
+2024-05-07,1826.71,Doctor Visit,Healthcare
+2024-05-11,3556.79,Flipkart,Shopping
+2024-01-24,4897.64,Amazon,Shopping
+2024-05-24,4287.68,Health Checkup,Healthcare
+2024-04-27,4841.84,Spotify,Entertainment
+2024-03-03,2402.06,Dominos,Food
+2024-01-17,2065.94,Gift,Others
+2024-04-23,1354.97,Miscellaneous,Others
+2024-04-06,1780.57,Zomato,Food
+2024-03-29,4606.54,Amazon,Shopping
+2024-03-13,4079.81,Pharmacy,Healthcare
+2024-01-10,1350.94,Netflix,Entertainment
+2024-04-21,2745.09,Zomato,Food
+2024-04-10,4120.88,Gift,Others
+2024-04-21,3915.29,Spotify,Entertainment
+2024-04-08,637.32,Netflix,Entertainment
+2024-02-06,2087.84,Miscellaneous,Others
+2024-01-21,572.71,Concert,Entertainment
+2024-01-13,226.4,Flipkart,Shopping
+2024-05-01,2560.04,Donation,Others
+2024-04-12,4398.78,Flipkart,Shopping
+2024-05-19,735.81,Electricity Bill,Utilities
+2024-05-18,570.94,Dominos,Food
+2024-04-04,4139.28,Zomato,Food
+2024-04-17,3291.79,Gift,Others
+2024-02-28,1756.04,Donation,Others
+2024-04-12,129.41,Pharmacy,Healthcare
+2024-03-31,3749.87,Dominos,Food
+2024-05-25,2262.64,Amazon,Shopping
+2024-02-11,3711.67,Netflix,Entertainment
+2024-02-26,2129.23,Pharmacy,Healthcare
+2024-01-27,585.71,Water Bill,Utilities
+2024-03-07,4104.74,Netflix,Entertainment
+2024-01-02,2140.73,Miscellaneous,Others
+2024-03-15,3349.06,Donation,Others
+2024-02-16,171.95,Swiggy,Food
+2024-05-11,3174.28,Train Ticket,Transport
+2024-03-16,2493.93,Concert,Entertainment
+2024-02-11,4257.05,Spotify,Entertainment
+2024-05-27,1171.76,Apartment Rent,Rent
+2024-02-12,1802.54,Dominos,Food
+2024-05-26,638.53,Clothing Store,Shopping
+2024-03-07,2635.03,Dominos,Food
+2024-01-14,1985.23,Gift,Others
+2024-02-22,2223.61,Internet Bill,Utilities
+2024-03-12,2989.98,Amazon,Shopping
+2024-03-28,3476.49,Zomato,Food
+2024-03-27,2117.72,Fuel,Transport
+2024-02-14,4336.78,Clothing Store,Shopping
+2024-02-27,2586.24,Health Checkup,Healthcare
+2024-04-15,1797.4,Spotify,Entertainment
+2024-05-20,232.26,Fuel,Transport
+2024-04-23,468.42,Dominos,Food
+2024-04-26,1393.54,Uber,Transport
+2024-01-10,3974.59,Bus Pass,Transport
+2024-03-13,3770.23,Electricity Bill,Utilities
+2024-01-10,3341.85,Train Ticket,Transport
+2024-04-23,1297.84,Apartment Rent,Rent
+2024-02-13,175.2,Zomato,Food
+2024-04-09,1631.77,Uber,Transport
+2024-04-27,2552.88,Uber,Transport
+2024-01-07,2680.65,Doctor Visit,Healthcare
+2024-02-21,327.21,Swiggy,Food
+2024-02-02,793.47,Swiggy,Food
+2024-04-08,672.73,Fuel,Transport
+2024-03-04,1961.59,Swiggy,Food
+2024-05-25,2573.75,Water Bill,Utilities
+2024-05-04,4081.69,Electricity Bill,Utilities
+2024-04-22,1265.06,Zomato,Food
+2024-04-16,3912.98,Electricity Bill,Utilities
+2024-01-28,4918.59,Bus Pass,Transport
+2024-05-11,3637.91,Doctor Visit,Healthcare
+2024-01-24,3368.42,Internet Bill,Utilities
+2024-05-25,4795.23,Miscellaneous,Others
+2024-05-04,4818.85,Apartment Rent,Rent
+2024-04-19,3105.76,Concert,Entertainment
+2024-03-03,1049.26,Internet Bill,Utilities
+2024-04-13,2806.55,Fuel,Transport
+2024-01-28,838.45,Gift,Others
+2024-03-28,2045.88,Electricity Bill,Utilities
+2024-05-11,1168.78,Apartment Rent,Rent
+2024-02-25,4292.48,Donation,Others
+2024-02-23,3194.61,Groceries,Food
+2024-03-20,2480.98,Apartment Rent,Rent
+2024-02-19,919.16,Dominos,Food
+2024-05-26,2727.57,Zomato,Food
+2024-04-11,3505.54,Flipkart,Shopping
+2024-02-11,1449.35,Apartment Rent,Rent
+2024-04-30,679.69,Miscellaneous,Others
+2024-05-27,3690.09,Amazon,Shopping
+2024-03-25,3208.59,Movie,Entertainment
+2024-05-13,985.94,Movie,Entertainment
+2024-04-02,4096.43,Netflix,Entertainment
+2024-01-19,4232.6,Electricity Bill,Utilities
+2024-05-03,980.18,Dominos,Food
+2024-01-06,2120.85,Gift,Others
+2024-04-11,3738.74,Apartment Rent,Rent
+2024-01-16,945.77,Clothing Store,Shopping
+2024-02-21,712.12,Zomato,Food
+2024-05-30,1443.28,Internet Bill,Utilities
+2024-01-27,2199.47,Zomato,Food
+2024-04-03,4624.91,Internet Bill,Utilities
+2024-04-16,787.98,Concert,Entertainment
+2024-03-14,2050.85,Uber,Transport
+2024-02-24,1013.4,Concert,Entertainment
+2024-04-11,502.46,Dominos,Food
+2024-04-04,3717.6,Doctor Visit,Healthcare
+2024-01-13,3470.98,Apartment Rent,Rent
+2024-01-05,3644.54,Swiggy,Food
+2024-05-03,2899.37,Apartment Rent,Rent
+2024-04-08,1692.4,Apartment Rent,Rent
+2024-04-12,1901.17,Donation,Others
+2024-03-22,3271.13,Apartment Rent,Rent
+2024-01-15,4784.01,Bus Pass,Transport
+2024-01-09,539.41,Electricity Bill,Utilities
+2024-02-03,1887.26,Electricity Bill,Utilities
+2024-04-26,4384.36,Apartment Rent,Rent
+2024-05-15,2322.89,Electricity Bill,Utilities
+2024-03-10,1170.47,Donation,Others
+2024-02-23,3785.17,Gift,Others
+2024-01-15,3562.86,Pharmacy,Healthcare
+2024-03-10,2284.96,Apartment Rent,Rent
+2024-01-25,182.14,Swiggy,Food
+2024-03-10,4926.28,Zomato,Food
+2024-04-27,3409.63,Apartment Rent,Rent
+2024-04-24,2004.8,Concert,Entertainment
+2024-01-22,1676.18,Water Bill,Utilities
+2024-03-02,4220.71,Apartment Rent,Rent
+2024-05-13,3466.45,Health Checkup,Healthcare
+2024-01-22,4977.81,Zomato,Food
+2024-05-07,1176.44,Miscellaneous,Others
+2024-05-03,1793.24,Bus Pass,Transport
+2024-04-21,3262.07,Concert,Entertainment
+2024-01-15,848.39,Water Bill,Utilities
+2024-04-26,4107.47,Netflix,Entertainment
+2024-04-12,934.03,Apartment Rent,Rent
+2024-03-06,4444.59,Groceries,Food
+2024-01-29,2929.54,Spotify,Entertainment
+2024-03-27,1962.95,Zomato,Food
+2024-02-27,307.1,Uber,Transport
+2024-02-10,265.46,Apartment Rent,Rent
+2024-05-21,2651.61,Uber,Transport
+2024-02-08,4101.91,Health Checkup,Healthcare
+2024-03-11,4953.69,Clothing Store,Shopping
+2024-05-22,3819.33,Internet Bill,Utilities
+2024-04-19,4854.04,Dominos,Food
+2024-03-20,4343.0,Uber,Transport
+2024-01-26,4175.5,Doctor Visit,Healthcare
+2024-04-16,4889.11,Swiggy,Food
+2024-01-24,3265.78,Apartment Rent,Rent
+2024-02-03,676.13,Health Checkup,Healthcare
+2024-02-14,2933.18,Apartment Rent,Rent
+2024-03-06,4443.05,Amazon,Shopping
+2024-02-24,2035.88,Electricity Bill,Utilities
+2024-02-11,1395.85,Train Ticket,Transport
+2024-05-24,1704.0,Apartment Rent,Rent
+2024-05-04,3065.1,Apartment Rent,Rent
+2024-04-12,1521.06,Swiggy,Food
+2024-04-14,4217.5,Netflix,Entertainment
+2024-03-15,2059.25,Health Checkup,Healthcare
+2024-01-22,1021.55,Flipkart,Shopping
+2024-05-13,483.65,Apartment Rent,Rent
+2024-02-15,669.93,Apartment Rent,Rent
+2024-05-08,541.79,Bus Pass,Transport
+2024-03-03,3866.68,Concert,Entertainment
+2024-01-08,3105.38,Pharmacy,Healthcare
+2024-05-10,1249.44,Water Bill,Utilities
+2024-01-26,1615.59,Miscellaneous,Others
+2024-05-14,1998.28,Donation,Others
+2024-03-09,501.24,Concert,Entertainment
+2024-05-22,394.25,Clothing Store,Shopping
+2024-02-12,4852.52,Spotify,Entertainment
+2024-05-03,388.39,Apartment Rent,Rent
+2024-05-01,4953.01,Electricity Bill,Utilities
+2024-02-11,2664.24,Amazon,Shopping
+2024-02-29,3739.25,Groceries,Food
+2024-05-03,1137.54,Swiggy,Food
+2024-04-15,4848.16,Water Bill,Utilities
+2024-03-10,3733.73,Miscellaneous,Others
+2024-01-19,820.57,Donation,Others
+2024-05-11,2146.07,Electricity Bill,Utilities
+2024-05-22,2844.02,Groceries,Food
+2024-03-08,939.94,Amazon,Shopping
+2024-05-05,2623.42,Pharmacy,Healthcare
+2024-03-29,2078.98,Amazon,Shopping
+2024-01-27,1092.38,Amazon,Shopping
+2024-02-25,3058.77,Doctor Visit,Healthcare
+2024-01-19,638.06,Miscellaneous,Others
+2024-04-16,4661.1,Electricity Bill,Utilities
+2024-01-19,4284.39,Pharmacy,Healthcare
+2024-05-07,3439.98,Apartment Rent,Rent
+2024-01-30,3103.45,Donation,Others
+2024-04-14,3012.05,Amazon,Shopping
+2024-05-13,3586.06,Flipkart,Shopping
+2024-02-29,3553.93,Apartment Rent,Rent
+2024-03-15,3819.12,Flipkart,Shopping
+2024-04-24,1745.38,Fuel,Transport
+2024-04-18,2899.54,Apartment Rent,Rent
+2024-05-05,4447.55,Flipkart,Shopping
+2024-05-03,1448.4,Netflix,Entertainment
+2024-02-10,2591.85,Fuel,Transport
+2024-03-23,2446.55,Doctor Visit,Healthcare
+2024-02-10,2664.0,Netflix,Entertainment
+2024-04-03,3867.2,Spotify,Entertainment
+2024-04-24,1793.8,Electricity Bill,Utilities
+2024-01-16,4081.95,Health Checkup,Healthcare
+2024-03-06,4944.13,Electricity Bill,Utilities
+2024-02-18,1950.88,Clothing Store,Shopping
+2024-01-03,4937.52,Apartment Rent,Rent
+2024-05-11,4635.99,Netflix,Entertainment
+2024-03-25,688.18,Doctor Visit,Healthcare
+2024-03-08,3589.29,Dominos,Food
+2024-05-11,1639.26,Spotify,Entertainment
+2024-03-20,3132.03,Apartment Rent,Rent
+2024-04-14,1075.21,Train Ticket,Transport
+2024-03-02,822.16,Miscellaneous,Others
+2024-02-01,2816.71,Apartment Rent,Rent
+2024-02-29,546.36,Fuel,Transport
+2024-05-28,180.68,Groceries,Food
+2024-05-11,2377.54,Movie,Entertainment
+2024-04-29,230.42,Doctor Visit,Healthcare
+2024-01-15,881.14,Clothing Store,Shopping
+2024-03-10,1053.03,Doctor Visit,Healthcare
+2024-03-05,537.68,Health Checkup,Healthcare
+2024-02-11,2807.46,Doctor Visit,Healthcare
+2024-01-13,2830.07,Water Bill,Utilities
+2024-05-25,4430.67,Flipkart,Shopping
+2024-04-25,2004.32,Donation,Others
+2024-04-01,3339.28,Clothing Store,Shopping
+2024-04-25,285.32,Netflix,Entertainment
+2024-04-23,3307.96,Flipkart,Shopping
+2024-04-21,4123.94,Doctor Visit,Healthcare
+2024-02-16,3963.3,Uber,Transport
+2024-02-16,3202.25,Electricity Bill,Utilities
+2024-01-06,3404.75,Fuel,Transport
+2024-03-19,4208.66,Clothing Store,Shopping
+2024-04-29,425.94,Water Bill,Utilities
+2024-02-04,1677.19,Fuel,Transport
+2024-04-11,1817.25,Clothing Store,Shopping
+2024-04-16,1635.96,Netflix,Entertainment
+2024-03-08,1419.76,Water Bill,Utilities
+2024-01-26,102.09,Swiggy,Food
+2024-03-23,3963.11,Dominos,Food
+2024-03-26,105.3,Water Bill,Utilities
+2024-02-22,3528.97,Groceries,Food
+2024-04-05,4869.33,Amazon,Shopping
+2024-02-02,4008.71,Flipkart,Shopping
+2024-02-07,2580.57,Netflix,Entertainment
+2024-04-17,3892.09,Dominos,Food
+2024-02-24,1973.6,Apartment Rent,Rent
+2024-05-07,3585.87,Apartment Rent,Rent
+2024-02-10,2332.83,Zomato,Food
+2024-05-25,2629.84,Flipkart,Shopping
+2024-05-23,3473.46,Apartment Rent,Rent
+2024-04-24,2279.56,Concert,Entertainment
+2024-01-15,4652.31,Swiggy,Food
+2024-05-10,3377.68,Swiggy,Food
+2024-02-09,1748.79,Train Ticket,Transport
+2024-03-08,4809.6,Clothing Store,Shopping
+2024-05-27,3960.7,Dominos,Food
+2024-05-30,4291.22,Concert,Entertainment
+2024-01-03,1965.2,Internet Bill,Utilities
+2024-05-05,4049.36,Uber,Transport
+2024-05-29,1733.53,Flipkart,Shopping
+2024-01-01,1234.64,Apartment Rent,Rent
+2024-04-02,2486.73,Netflix,Entertainment
+2024-02-15,3469.15,Gift,Others
+2024-05-19,3667.15,Health Checkup,Healthcare
+2024-02-02,1762.36,Apartment Rent,Rent
+2024-02-29,3712.86,Health Checkup,Healthcare
+2024-04-09,4476.26,Uber,Transport
+2024-01-21,1957.29,Flipkart,Shopping
+2024-02-29,4462.21,Miscellaneous,Others
+2024-03-30,3473.69,Netflix,Entertainment
+2024-02-07,3899.4,Doctor Visit,Healthcare
+2024-04-13,2304.83,Bus Pass,Transport
+2024-01-21,1354.1,Apartment Rent,Rent
+2024-01-25,1646.57,Fuel,Transport
+2024-02-12,886.15,Swiggy,Food
+2024-03-21,2007.72,Spotify,Entertainment
+2024-01-06,1067.61,Gift,Others
+2024-02-10,2542.13,Swiggy,Food
+2024-01-15,1927.92,Groceries,Food
+2024-02-12,1848.43,Apartment Rent,Rent
+2024-04-26,494.08,Groceries,Food
+2024-02-02,4673.51,Health Checkup,Healthcare
+2024-03-28,2394.93,Fuel,Transport
+2024-01-15,2013.71,Miscellaneous,Others
+2024-05-16,265.24,Miscellaneous,Others
+2024-02-02,2686.18,Train Ticket,Transport
+2024-02-26,3518.7,Spotify,Entertainment
+2024-03-27,4848.79,Flipkart,Shopping
+2024-05-13,310.55,Apartment Rent,Rent
+2024-04-12,1990.42,Spotify,Entertainment
+2024-03-11,4640.6,Dominos,Food
+2024-04-27,787.71,Apartment Rent,Rent
+2024-04-14,2717.04,Apartment Rent,Rent
+2024-05-20,2021.02,Spotify,Entertainment
+2024-03-29,762.46,Netflix,Entertainment
+2024-02-10,271.4,Gift,Others
+2024-01-29,1556.77,Apartment Rent,Rent
+2024-03-30,4982.8,Netflix,Entertainment
+2024-04-07,3529.67,Movie,Entertainment
+2024-01-06,4143.72,Flipkart,Shopping
+2024-01-25,1193.41,Train Ticket,Transport
+2024-03-20,3168.04,Bus Pass,Transport
+2024-02-26,2298.49,Internet Bill,Utilities
+2024-04-01,4991.64,Health Checkup,Healthcare
+2024-04-29,548.66,Gift,Others
+2024-05-17,3781.23,Pharmacy,Healthcare
+2024-01-02,2911.79,Apartment Rent,Rent
+2024-02-20,4889.16,Concert,Entertainment
+2024-02-22,1854.18,Electricity Bill,Utilities
+2024-01-21,129.53,Apartment Rent,Rent
+2024-03-31,376.68,Fuel,Transport
+2024-01-19,2677.19,Bus Pass,Transport
+2024-03-30,196.98,Donation,Others
+2024-01-06,4153.8,Netflix,Entertainment
+2024-05-13,4148.77,Bus Pass,Transport
+2024-05-22,1828.39,Doctor Visit,Healthcare
+2024-03-23,4050.13,Concert,Entertainment
+2024-02-21,1673.83,Zomato,Food
+2024-01-02,1999.77,Clothing Store,Shopping
+2024-02-24,4139.13,Water Bill,Utilities
+2024-01-22,4053.02,Apartment Rent,Rent
+2024-03-31,1544.32,Apartment Rent,Rent
+2024-05-11,4946.78,Netflix,Entertainment
+2024-05-10,4976.96,Apartment Rent,Rent
+2024-02-27,1433.94,Fuel,Transport
+2024-01-26,1614.93,Movie,Entertainment
+2024-03-19,4578.23,Electricity Bill,Utilities
+2024-04-06,2907.97,Apartment Rent,Rent
+2024-02-12,3755.07,Health Checkup,Healthcare
+2024-04-24,857.13,Movie,Entertainment
+2024-02-19,3554.13,Train Ticket,Transport
+2024-01-02,593.31,Doctor Visit,Healthcare
+2024-03-16,1930.73,Donation,Others
+2024-01-11,2290.35,Concert,Entertainment
+2024-02-29,656.88,Apartment Rent,Rent
+2024-01-02,2328.78,Doctor Visit,Healthcare
+2024-02-11,4563.82,Dominos,Food
+2024-02-02,860.66,Swiggy,Food
+2024-05-03,4189.48,Spotify,Entertainment
+2024-03-05,3488.81,Zomato,Food
+2024-04-25,2799.75,Clothing Store,Shopping
+2024-05-02,679.54,Netflix,Entertainment
+2024-01-07,1040.85,Apartment Rent,Rent
+2024-01-29,2389.47,Apartment Rent,Rent
+2024-04-10,2208.69,Bus Pass,Transport
+2024-03-06,1845.54,Apartment Rent,Rent
+2024-04-01,3752.97,Apartment Rent,Rent
+2024-05-17,3606.18,Gift,Others
+2024-02-01,116.79,Spotify,Entertainment
+2024-03-25,3518.87,Netflix,Entertainment
+2024-05-14,1314.48,Clothing Store,Shopping
+2024-05-04,672.95,Uber,Transport
+2024-04-08,809.75,Amazon,Shopping
+2024-03-10,3466.09,Swiggy,Food
+2024-05-15,1718.42,Zomato,Food
+2024-01-07,3455.15,Clothing Store,Shopping
+2024-02-21,1898.49,Groceries,Food
+2024-03-05,2918.63,Gift,Others
+2024-01-17,4708.1,Electricity Bill,Utilities
+2024-04-25,3123.47,Uber,Transport
+2024-03-01,1481.4,Flipkart,Shopping
+2024-02-15,3258.08,Flipkart,Shopping
+2024-02-19,4540.42,Gift,Others
+2024-02-02,3858.39,Concert,Entertainment
+2024-05-09,2887.48,Groceries,Food
+2024-03-22,2039.18,Water Bill,Utilities
+2024-02-27,2631.84,Electricity Bill,Utilities
+2024-04-10,2509.45,Gift,Others
+2024-05-18,1350.73,Water Bill,Utilities
+2024-03-27,4439.78,Amazon,Shopping
+2024-04-09,1469.98,Dominos,Food
+2024-05-19,3485.6,Water Bill,Utilities
+2024-02-12,3546.62,Pharmacy,Healthcare
+2024-04-22,2390.4,Donation,Others
+2024-04-09,4041.42,Fuel,Transport
+2024-02-04,2145.74,Train Ticket,Transport
+2024-04-16,1970.13,Pharmacy,Healthcare
+2024-05-05,3719.79,Apartment Rent,Rent
+2024-03-26,3517.11,Swiggy,Food
