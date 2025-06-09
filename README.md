@@ -25,10 +25,10 @@ Here are some screenshots of the Budget Expense Analyzer app in action:
 ## 📷 Output Screenshots
 
 ### 🖥️ Sample Data
-![Sample Data](images/data.png)
+![Sample Data](images/data1.png)
 
 ### 📈 Prediction Output
-![Prediction](images/prediction.png)
+![Prediction](images/prediction1.png)
 
 
 ## 🔧 How to Run the App
