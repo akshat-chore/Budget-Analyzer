@@ -22,14 +22,14 @@ An ML-powered budgeting and savings analyzer that helps users manage expenses, t
 
 Here are some screenshots of the Budget Expense Analyzer app in action:
 
+## 📷 Output Screenshots
+
 ### 🖥️ Sample Data
-![Sample Data](images/Data.png)
+![Sample Data](images/data.png)
 
-### 📈 Financial insights and Prediction
-![Financial insights and Prediction](images/Prediction.png)
+### 📈 Prediction Output
+![Prediction](images/prediction.png)
 
-### 🌍 Spending Cluster Analysis
-![spending cluster analysis](images/Analysis.png)
 
 ## 🔧 How to Run the App
 
