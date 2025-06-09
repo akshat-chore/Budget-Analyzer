@@ -18,3 +18,19 @@ An ML-powered budgeting and savings analyzer that helps users manage expenses, t
 
 ## 📂 Project Structure
 
+## 🔧 How to Run the App
+
+1. **Clone this repository:**
+   ```bash
+   git clone https://github.com/akshat-chore/Budget-Analyzer.git
+
+   
+Navigate to the project folder:
+cd Budget-Analyzer
+
+Install dependencies:
+pip install -r requirements.txt
+
+Run the Streamlit app:
+streamlit run app/streamlit_app.py
+
