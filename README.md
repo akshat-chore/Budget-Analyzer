@@ -28,9 +28,12 @@ An ML-powered budgeting and savings analyzer that helps users manage expenses, t
 Navigate to the project folder:
 cd Budget-Analyzer
 
+
 Install dependencies:
 pip install -r requirements.txt
 
+
 Run the Streamlit app:
 streamlit run app/streamlit_app.py
+
 
