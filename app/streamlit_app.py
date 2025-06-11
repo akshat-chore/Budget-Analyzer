@@ -32,7 +32,7 @@ def train_kmeans(data, n_clusters=3):
 # --- Sample Dataset Download ---
 with st.expander("📁 Don't have data? Download a sample dataset to try the app"):
     try:
-        sample_df = load_data("data/budget_data.csv")
+        sample_df = load_data("data/real_data.csv")
         st.download_button(
             label="📥 Download Sample Dataset",
             data=sample_df.to_csv(index=False),
