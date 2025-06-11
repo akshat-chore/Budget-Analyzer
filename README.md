@@ -1,5 +1,9 @@
 # 💰 Budget Expense Analyzer
 
+📊 **Live App**: [Click here to try it](https://budget-analyzer-akshat.streamlit.app/)
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://budget-analyzer-akshat.streamlit.app/)
+
 ## 📌 Overview
 An ML-powered budgeting and savings analyzer that helps users manage expenses, track spending patterns, and optimize savings intelligently. Built using Streamlit, the app provides a user-friendly interface and smart insights powered by machine learning.
 
